@@ -65,7 +65,8 @@ jobs:
           export DEFAULT_AWS_REGION=${{ secrets.DEFAULT_AWS_REGION }}
           
           # Make script executable and run it
-          ./scripts/deploy.ps1 ${{ github.event.inputs.environment || 'dev' }}
+          chmod +x scripts/deploy.sh
+          ./scripts/deploy.sh ${{ github.event.inputs.environment || 'dev' }}
         env:
           AWS_ROLE_ARN: ${{ secrets.AWS_ROLE_ARN }}
           
