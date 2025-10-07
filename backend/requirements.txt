@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+openai
+python-dotenv
+python-multipart
+azure-storage-blob
+azure-keyvault-secrets
+azure-mgmt-compute
+pypdf
+boto3
+mangum

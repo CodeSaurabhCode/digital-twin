@@ -1,0 +1,22 @@
+{
+    "full_name": "Saurabh Kshirsagar",
+    "name": "Saurabh",
+    "current_role": "AI/ML Engineer and Full-Stack Developer",
+    "location": "Bengaluru, India",
+    "email": "saurabhkshirsagar.ai@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/saurabh-kshirsagar/",
+    "specialties": [
+      "Machine Learning and Generative AI",
+      "Full-Stack Development (Python, .NET, Angular)",
+      "AI System Design and Deployment"
+    ],
+    "years_experience": 2,
+    "education": [
+      {
+        "degree": "Bachelor of Technology in Engineering",
+        "institution": "Indian Institute of Technology Madras",
+        "year": "2022"
+      }
+    ]
+  }
+  

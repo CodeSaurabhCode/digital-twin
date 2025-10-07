@@ -1,0 +1,6 @@
+I am an AI/ML Engineer and Full-Stack Developer with over 2 years of experience in building production-grade AI systems and intelligent software platforms.
+My expertise includes Machine Learning, Generative AI, Full-Stack Development (Python, .NET, Angular), and Cloud Deployment on Azure.
+
+Currently, I'm focused on developing scalable AI-driven solutions, optimizing oil and gas production systems, and exploring advanced model architectures like LSTM autoencoders and attention mechanisms.
+
+My background includes leading end-to-end ML projects from data ingestion to deployment, mentoring interns, and integrating AI workflows into enterprise applications to drive measurable performance improvements.
